@@ -6,7 +6,7 @@
 ### raspberry
 * 树莓派CM3 + CMIO底板
 ### lcd module
-* 3.5 YT35F120A0
+* 3.5 YT35F120A0   ILI9481
 
 ## Software
 
